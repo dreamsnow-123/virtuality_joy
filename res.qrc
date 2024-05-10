@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/ui_joy_bg.png</file>
+        <file>resource/ui_joy_btn.png</file>
+    </qresource>
+</RCC>

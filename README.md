@@ -1,2 +1,1 @@
-# virtuality_joy
-virtuality_joy by qt
+![image-20240510195001847](./joy.png)
